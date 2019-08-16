@@ -1,10 +1,18 @@
+.container {
+  margin: 0 auto;
+  width: 80%;
+}
 .pic {
-  width: 500px;
-  height: 400px;
+  display: block;
+  margin: 0 auto;
+  width: 25%;
+  height: auto;
   border: 9px solid rgb(108, 131, 161);
 }
 #btn {
-  width: 520px;
+  display: block;
+  margin: 0 auto;
+  width: 25%;
   padding: 10px;
   margin-bottom: 20px;
   background-color: rgb(215, 237, 250);
