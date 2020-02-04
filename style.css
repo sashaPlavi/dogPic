@@ -1,6 +1,7 @@
 .container {
-  margin: 0 auto;
-  width: 80%;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
 }
 .pic {
   display: block;
@@ -10,11 +11,10 @@
   border: 9px solid rgb(108, 131, 161);
 }
 #btn {
-  display: block;
-  margin: 0 auto;
   width: 80%;
   padding: 10px;
   margin-bottom: 20px;
+  margin-top: 20px;
   background-color: rgb(215, 237, 250);
   font-weight: bold;
   border-radius: 10px;
